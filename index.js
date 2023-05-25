@@ -6,8 +6,8 @@ document.getElementById('container').style.background = 'silver'
 document.getElementById('title').style.color='green'
 // Change the font case for h3 title tags to uppercase
 // document.getElementById('h3').style.textTransform='uppercase'
-document.qetElementById('h3').style.textTransform='uppercase'
-document.qetElementById('h').style.textTransform='uppercase'
+document.getElementById('h3').style.textTransform='uppercase'
+document.getElementById('h').style.textTransform='uppercase'
 
 // Add one more fruit to the fruits list
 let li=document.createElement('li')
